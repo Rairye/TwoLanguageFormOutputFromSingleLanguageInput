@@ -14,10 +14,10 @@ https://github.com/Rairye/TwoLanguageFormOutputFromSingleLanguageInput/blob/mast
 
 https://github.com/Rairye/TwoLanguageFormOutputFromSingleLanguageInput/blob/master/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E3%81%AE%E5%87%BA%E5%8A%9B%E4%BE%8B2.jpg
 
-<b>Example of English Output 1, 日本語での出力例2</b>
+<b>Example of English Output 1, 英語での出力例2</b>
 
 https://github.com/Rairye/TwoLanguageFormOutputFromSingleLanguageInput/blob/master/%E8%8B%B1%E8%AA%9E%E3%81%A7%E3%81%AE%E5%87%BA%E5%8A%9B%E4%BE%8B1.jpg
 
-<b>Example of English Output 2, 日本語での出力例2</b>
+<b>Example of English Output 2, 英語での出力例2</b>
 
 https://github.com/Rairye/TwoLanguageFormOutputFromSingleLanguageInput/blob/master/%E8%8B%B1%E8%AA%9E%E3%81%A7%E3%81%AE%E5%87%BA%E5%8A%9B%E4%BE%8B2.jpg
