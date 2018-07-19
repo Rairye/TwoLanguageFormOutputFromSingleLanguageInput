@@ -2,7 +2,7 @@ React Native app for outputting forms in two languages from single-language user
 
 単数の言語の入力により、二つの言語でフォームを出力するためのアプリ（React Nativeで開発したもの）です。このrepoはアプリの機能を説明するためですから、ここに載っているのはアプリの出力例のみです。
 
-This app can output several types of forms, and those posted here are just an example. 
+This app can output several types of forms, and the one posted here is just an example. 
 
 出力可能なフォームの種類は複数ですが、ここに載っているのは一つの例です。
 
